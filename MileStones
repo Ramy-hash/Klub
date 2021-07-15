@@ -1,3 +1,7 @@
 1. Create a project folder with a small description in git to be trackable by a third party ✔️
 2. Create django boiler plate files and runserver to insure intsalled correctly ✔️
-3. 
+3. Allow user to create an account (login, logout, register) Only authentication
+4. Create Model for clubs and members 
+5. Allow user to enter a club 
+6. Extra Features 
+7. Deploy on cloud 
